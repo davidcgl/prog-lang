@@ -1,2 +1,3 @@
 # prog-lang
-Programming Languages
+
+Programming Languages by Dan Grossman (<https://www.coursera.org/learn/programming-languages>)
