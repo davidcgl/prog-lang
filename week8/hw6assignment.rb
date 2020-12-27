@@ -10,7 +10,7 @@ class MyPiece < Piece
     rotations([[0, 0], [1, 0], [0, 1]])
  ]
 
-  Cheat_Piece = [[0, 0]]
+  Cheat_Piece = [[[0, 0]]]
 
   def self.next_piece(board)
     MyPiece.new(All_My_Pieces.sample, board)
